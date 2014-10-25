@@ -14,5 +14,7 @@ the run_analysis.R program executes the following task on the dataset
 - join the activity file  (y) with the activity_labels.txt 
 - merge the subject table, activity table and measurement table into a large table final_table
 - calculate the mean by suject and activity
-- save the table into a test file.
--
+- save the table into a test file
+
+
+
